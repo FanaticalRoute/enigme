@@ -3,7 +3,7 @@ function auth (){
     const password = document.getElementById("password").value;
 
     if (username == "86" && password == "12000$") {
-        window.location.assign("https://google.com");
+        window.location.assign("https://fanaticalroute.github.io/enigme/y2102pin.html");
         alert("Next level");
     } else {
         alert("Try Again...");
